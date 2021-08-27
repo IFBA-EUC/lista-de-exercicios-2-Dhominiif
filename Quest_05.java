@@ -1,4 +1,4 @@
-public class Quest_5{
+public class Quest_05{
 
     public static void main(String[] args){
         
