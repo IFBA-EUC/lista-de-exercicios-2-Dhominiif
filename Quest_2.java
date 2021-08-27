@@ -1,7 +1,7 @@
 import java.lang.Math;
 import java.util.Scanner;
 
-public class Quest_2_0 {
+public class Quest_2 {
 
     public static void main(String[] args){
     
