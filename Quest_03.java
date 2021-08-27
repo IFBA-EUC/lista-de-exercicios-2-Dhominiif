@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Quest_3 {
+public class Quest_03 {
     public static void main(String[] args) {
         
         Scanner teclado = new Scanner(System.in);
