@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Quest_4 {
+public class Quest_04 {
 
     public static void main(String[] args){
 
